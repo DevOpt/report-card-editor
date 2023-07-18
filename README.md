@@ -1,10 +1,12 @@
-![image](https://github.com/DevOpt/report-card-editor/blob/cfc2cf87f9ad02d4e8511ed6d82d651c7b97a27c/public/img/homepage.png?raw=true)
-
 <h1 align="center">Report Card Editor AI</h1>
 
 <p align="center">
   An open-source report card editor built with Next.js, the Vercel AI SDK, OpenAI, and Tailwind.
 </p>
+
+![image](https://github.com/DevOpt/report-card-editor/blob/cfc2cf87f9ad02d4e8511ed6d82d651c7b97a27c/public/img/homepage.png?raw=true)
+
+<br/>
 
 ## How to use
 
