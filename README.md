@@ -46,6 +46,6 @@ yarn dev
 npm run dev
 ```
 
-## Access the application
+### 6\. Access the application
 
 Access the application on http://locahost:3000
