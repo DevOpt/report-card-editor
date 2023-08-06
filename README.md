@@ -38,7 +38,7 @@ yarn install
 npm install
 ```
 
-### 5\. Run Dev Server
+### 5\. Run dev server
 
 ```
 yarn dev
