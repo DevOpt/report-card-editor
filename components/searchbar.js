@@ -17,9 +17,7 @@ const SearchBar = () => {
   async function handleSubmit(e) {
     e.preventDefault();
     setResultInput('Editing...');
-    setTimeout(() => {
-      // delay for no reason
-    }, 3000);
+    setTimeout(() => {}, 3000);
     try {
       const response = await openai.createChatCompletion({
           model: "gpt-3.5-turbo",

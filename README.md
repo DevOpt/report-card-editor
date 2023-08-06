@@ -27,7 +27,7 @@ cd report-card-editor
 ### 3\. Generate an API key on [OpenAI](https://openai.com/) and add it to `.env` file
 
 ```
-OPENAI_API_KEY=XXXX
+NEXT_PUBLIC_OPENAI_API_KEY=XXXX
 ```
 
 ### 4\. Install dependencies

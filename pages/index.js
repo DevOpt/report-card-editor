@@ -20,7 +20,7 @@ const Home = () => {
       <Navbar />
       <SectionTitle
         pretitle="Welcome to RCE!"
-        title=" Why should you use this editing software?">
+        title="Why should you use this editing software?">
         Report Card Editor is a free text editing tool that is designed to help teachers submit their report cards faster.
       </SectionTitle>
       <SearchBar />
